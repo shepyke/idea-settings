@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="tsv" type="PLAIN_TEXT" />
+      <mapping ext="dockerfile" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
