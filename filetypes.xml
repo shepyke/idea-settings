@@ -2,9 +2,11 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
+      <mapping pattern="counterMonitoringConfigExample.xml" type="PLAIN_TEXT" />
       <mapping pattern="nodefs" type="PLAIN_TEXT" />
       <mapping ext="tsv" type="PLAIN_TEXT" />
       <mapping ext="dockerfile" type="PLAIN_TEXT" />
+      <mapping pattern="counterMonitoringConfigExample" type="XML" />
     </extensionMap>
   </component>
 </application>
